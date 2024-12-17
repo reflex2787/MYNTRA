@@ -102,7 +102,7 @@
     border-bottom: 2px solid rgb(161, 9, 207);
 }
 .menu-menu{
-    width: 1100px;
+    width: 1200px;
     height: 450px;
     margin: 100px auto;
     box-shadow: 0px 5px 4px gray;
@@ -226,9 +226,9 @@
     transition: 0.5s;
 }
 .menu-menu2{
-    width: 600px;
+    width: 700px;
     height: 450px;
-    margin: 100px auto;
+    margin: 99px auto;
     box-shadow: 0px 5px 4px gray;
     background-color: white;
     position: absolute;
@@ -298,9 +298,9 @@
 }
 /*menu-menu start*/
 .menu-mega2{
-    width: 1100px;
+    width: 1200px;
     height: 450px;
-    margin: 100px auto;
+    margin: 99px auto;
     box-shadow: 0px 5px 4px gray;
     background-color: white;
     display: flex;
@@ -393,7 +393,7 @@
     transform:rotate(270deg);
     position:fixed;
     top: 300px;
-    left: 1060px;
+    left: 1320px;
     z-index: 10;
     padding-top: 5px;
 }
@@ -419,7 +419,7 @@
     background-color:#3466e8;
     position:fixed;
     top: 480px;
-    left: 1120px;
+    left: 1350px;
     color: white;
     display: flex;
     align-items: center;
@@ -439,7 +439,7 @@
     border-radius: 50%;
     position:fixed;
     top: 480px;
-    left: 1120px;
+    left: 1350px;
     z-index: 1;
     animation: baller 2.5s infinite reverse linear;
 }
@@ -458,7 +458,7 @@
     border-radius: 50%;
     position:fixed;
     top: 480px;
-    left: 1120px;
+    left: 1350px;
     z-index: 1;
     animation: baller2 1.5s infinite reverse linear;
 }
@@ -474,16 +474,17 @@
     background-color:#3466e8;
     position: fixed;
     top: 490px;
-    left: 1215px;
+    left: 1470px;
     padding: 3px;
     color: white;
+    z-index: 20;
 }
 /*ball*/
 /*mega-menu3 start*/
 .menu-mega3{
-    width: 1100px;
+    width: 1200px;
     height: 450px;
-    margin: 100px auto;
+    margin: 99px auto;
     box-shadow: 0px 5px 4px gray;
     background-color: white;
     display: flex;
@@ -537,9 +538,9 @@
 /*mega-menu3 end*/
 /*menu-mega4 start*/
 .mega-menu4{
-    width: 1100px;
+    width: 1200px;
     height: 450px;
-    margin: 100px auto;
+    margin: 99px auto;
     box-shadow: 0px 5px 4px gray;
     background-color: white;
     display: flex;
@@ -602,9 +603,9 @@
 /*menu-mega4 end*/
 /*menu-mega5 start*/
 .mega-menu5{
-    width: 1100px;
+    width: 1200px;
     height: 450px;
-    margin: 100px auto;
+    margin: 99px auto;
     box-shadow: 0px 5px 4px gray;
     background-color: white;
     display: flex;
@@ -672,7 +673,7 @@ a{
 }
 .search-bar{
     width: 450px;
-    height: 30px;
+    height: 40px;
     background-color: #f5f5f6;
     display: flex;
     justify-content: center;
@@ -687,7 +688,7 @@ i{
 }
 .search-bar input{
     width:400px;
-    height:30px;
+    height:40px;
     border: none;
     outline: none;
     background-color: #f5f5f6;
@@ -708,6 +709,7 @@ i{
     justify-content: center;
     align-items: center;
     font-size: 14px;
+    font-weight: 600;
 
 }
 .lidin-flex{
@@ -716,7 +718,7 @@ i{
     background-color:white;
     box-shadow: 0 4px 12px gray;
     position: absolute;
-    top: 60px;
+    top: 65px;
     visibility: hidden;
     opacity: 0;
     transition: 0.5s;
@@ -783,7 +785,7 @@ i{
 }
 .main-frist-row{
     width: 100%;
-    height:160px;
+    height:180px;
     margin-top: 20px;
 }
 .main-frist-row-box{
@@ -800,7 +802,7 @@ i{
 /*main second row start*/
 .main-second-row{
     width: 100%;
-    height: 400px;
+    height: 450px;
     margin-top: 10px;
 }
 /*main second row end*/
@@ -882,7 +884,7 @@ i{
 }
 .main-ten-row-box{
     width: 16%;
-    height: 270px;
+    height: 300px;
 }
 .main-ten-row2{
     width:70%;
@@ -892,7 +894,7 @@ i{
 }
 .main-ten-row-box2{
     width:23%;
-    height: 270px;
+    height: 300px;
 }
 /*main ten row end*/
 /*main eleven row start*/
@@ -1306,8 +1308,8 @@ li{
     margin-top: 12px;
 }
 .main-home-work-body-box{
-    width:1200px;
-    height:400px;
+    width:1400px;
+    height:450px;
     margin: auto;
     overflow: hidden;
 }
@@ -1349,7 +1351,7 @@ li{
 .heading-box1-box{
     width:500px;
     height: 450px;
-    margin: 5px 5px;
+    margin: 5px 10px;
     overflow: hidden;
 }
 .heading-box1-box:hover{
@@ -1466,7 +1468,7 @@ li{
 .booker-img{
     width:180px;
     height:180px;
-    margin: 50px 470px;
+    margin: 50px 620px;
     color: aquamarine;
     font-size: 80px;
 }
@@ -1475,7 +1477,7 @@ li{
     height: 60px;
     border: 1px solid #3466e8;
     border-radius: 5px;
-    margin-left: 560px;
+    margin-left: 700px;
     font-size: 25px;
     display: flex;
     align-items: center;
